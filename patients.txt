@@ -1,0 +1,6 @@
+101|Haris Jahangir|21|Male|03001234567|Fever
+102|Ma'am Aqsa|35|Female|03111234567|Migraine
+103|Mohib|22|Male|03211234567|Flu
+104|Ooga Booga|40|Male|03331234567|Back pain
+105|Nigga123|29|Male|03451234567|Cough
+106|GTA6 Is Good|19|Female|03021234567|Routine checkup
