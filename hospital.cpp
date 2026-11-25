@@ -1168,7 +1168,6 @@ int main()
     loadRequests();
 
     cout << "Hospital Appointment and Patient Management System\n";
-    cout << "Written by Haris Jahangir\n";
     cout << "Loaded " << patients.count << " patients, " << appointments.count << " appointments and "
          << requests.count << " waiting requests from files.\n";
 
